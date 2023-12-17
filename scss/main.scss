@@ -2,7 +2,7 @@ $primary: #495d63;
 $secondary:#60ba62;
 $warning: #e39160;
 
-.card:hover .customhover:hover {
+.card:hover {
     transition: transform 0.3s ease;
     transform: translateY(-5px);
 }

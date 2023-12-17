@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.card:hover .customhover:hover {
+.card:hover {
   transition: transform 0.3s ease;
   transform: translateY(-5px);
 }
